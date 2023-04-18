@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ziiho08
-- 👀 I’m interested in deep learning, machine intelligence
-- 🌱 I’m currently learning deep learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in deep learning, computer vision
 - 📫 How to reach me : email jihochoi@jbnu.ac.kr
 
 <!---
