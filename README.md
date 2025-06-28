@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ziiho08
-- 👀 I’m interested in deep learning, computer vision
+- 👀 I’m interested in computer vision, remote physiological estimation
 - 📫 How to reach me : email jihochoi@jbnu.ac.kr
 
 <!---
