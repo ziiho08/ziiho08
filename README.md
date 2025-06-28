@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ziiho08
+- 👋 Hi, I’m Jiho Choi
 - 👀 I’m interested in computer vision, remote physiological estimation
 - 📫 How to reach me : email jihochoi@jbnu.ac.kr
 
